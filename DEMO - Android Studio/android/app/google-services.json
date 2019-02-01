@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1069625268379",
+    "firebase_url": "https://buildboxdemo2019.firebaseio.com",
+    "project_id": "buildboxdemo2019",
+    "storage_bucket": "buildboxdemo2019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069625268379:android:b407d5f8a6e6e085",
+        "android_client_info": {
+          "package_name": "com.nicoleigames.letrandemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069625268379-0hiv40ha0odurg3a1s62i27rqnq6r638.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlcxcaf2LhMxZrA6N4cmKDxd_yGfRU6Y4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
